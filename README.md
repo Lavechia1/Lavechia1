@@ -6,10 +6,10 @@
 - 📫 daniel.lavechia@gmail.com
 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Lavechia1/Lavechia1">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=lavechia1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavechia1&layout=compact&langs_count=7&theme=dark"/>
+  <img width+"48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavechia1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
