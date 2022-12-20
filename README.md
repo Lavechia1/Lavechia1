@@ -2,7 +2,7 @@
 
 - 🔭 Front-End Developer 
 - 📝 Analise e Desenvolvimento de Sistemas - UNINOVE
-- 🌱 Estudando JavaScript 
+- 🌱 Estudando JavaScript / JQuery / React
 - 📫 daniel.lavechia@gmail.com
 
 
